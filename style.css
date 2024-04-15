@@ -27,8 +27,9 @@ header{
     padding: 10px 20px 10px 20px;
 }
 
-.fa-solid{
-    display: none !important;
+.fa-solid, {
+    font-weight: 900;
+    display: none;
 }
 
 header ul {
