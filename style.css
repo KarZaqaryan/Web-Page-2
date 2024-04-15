@@ -27,7 +27,7 @@ header{
     padding: 10px 20px 10px 20px;
 }
 
-.fa-solid, .fas {
+.fa-solid, {
     font-weight: 900;
     display: none;
 }
