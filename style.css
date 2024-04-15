@@ -26,7 +26,8 @@ header{
     justify-content: space-around;
     padding: 10px 20px 10px 20px;
 }
-.fa-solid{
+
+.icon {
     display: none !important;
 }
 
